@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprobar Décimos de Lotería</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            width: 100%;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            margin: 10px;
+            padding: 15px 30px;
+            font-size: 16px;
+            color: white;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Comprobar Décimos de Lotería</h1>
+    </header>
+    <div class="container">
+        <p>Haz clic en el número de tu décimo para comprobar si ha sido premiado.</p>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">22970</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">77104</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">75672</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">19183</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">52817</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">43441</a>
+        <a href="https://www.loteriasyapuestas.es/es/resultados" target="_blank" class="button">74704</a>
+    </div>
+</body>
+</html>
